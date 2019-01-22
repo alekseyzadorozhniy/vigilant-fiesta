@@ -1,0 +1,20 @@
+.portfolio-layout {
+  display: flex;
+}
+
+.portfolio-main {
+  flex: 1;
+}
+
+.portfolio-right-side {
+  flex: 0.3;
+}
+
+.portfolio-title {
+  margin-top: 50px;
+}
+
+.positions-layout {
+  background-color: white;
+  padding: 15px;
+}

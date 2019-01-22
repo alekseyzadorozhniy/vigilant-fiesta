@@ -1,0 +1,16 @@
+.app-navbar,
+.left-navbar,
+.right-navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.app-nav-item {
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+.app-nav-item:hover,
+.app-nav-item:active {
+  background-color: #f1f2f4;
+}
